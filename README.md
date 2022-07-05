@@ -23,10 +23,10 @@
         function drawChart() {
             var data = google.visualization.arrayToDataTable([
                 ['Programming', 'Mhl'],
-                ['Python', 54.8],
-                ['Html', 48.6],
-                ['Css', 44.4],
-                ['Java Script', 23.9],
+                ['Python, django and kivi', 54.8],
+                ['Html and pug', 48.6],
+                ['Css and sass', 44.4],
+                ['Java and Java Script', 23.9],
                 ['My Sql and Mongo Db', 14.5]
             ]);
 
